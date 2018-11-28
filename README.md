@@ -1,2 +1,2 @@
 # veerender
-working on audio visual speech recognition
+Machine Learning/Artifical Intelligence
