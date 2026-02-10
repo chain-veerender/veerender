@@ -3,7 +3,7 @@
 Welcome to the complete guide on Transformer architecture! This collection provides deep understanding of transformers from first principles, showing exactly what happens under the hood when you use libraries like PyTorch, TensorFlow, and HuggingFace.
 
 ## 📚 Contents
-Prerequisite is Transformers_theory.py to understand foundation principles. While navigating through below sequence you can refer Transformers_theorytocoding_mapping.py for any specific mappings to concepts from code snippets.
+Prerequisite is Transformers_theory.py to understand foundation principles. While navigating through below sequence you can refer transformers_theory_to_code_mapping.py for any specific mappings to concepts from code snippets.
 
 ### 1. **transformer_architecture_explained.py** (★ START HERE)
 **The complete foundation - theory, math, and code from scratch**
